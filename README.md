@@ -1,6 +1,9 @@
 # Cell Phone Detector
 
 This is a console application that detects cell phones in a webcam stream. The application is implemented completely in C++ and uses YOLO and OpenCV.
+# Dependencies:
+1- OpenCV
+Please make sure you have OpenCV installed and functioning before running this application.
 
 ## Running the Application
 
