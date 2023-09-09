@@ -1,6 +1,6 @@
 # Cell Phone Detector
 
-This project is a cell phone detector application from a webcam video stream that uses OpenCV for computer vision tasks.
+This is a console application that detects cell phones in a webcam stream. The application is implemented completely in C++ and uses YOLO and OpenCV.
 
 ## Running the Application
 
