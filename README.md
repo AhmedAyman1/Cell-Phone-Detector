@@ -6,7 +6,7 @@ This is a console application that detects cell phones in a webcam stream. The a
 
 To run the application, follow these steps:
 
-1. Clone the repository to your local machine. `git clone https://github.com/AhmedAyman1/CellPhoneDetector.git`  
+1. Clone the repository to your local machine. `git clone https://github.com/AhmedAyman1/Cell-Phone-Detector.git`  
 
 2. In the project folder, navigate to `x64/Release`.
 
