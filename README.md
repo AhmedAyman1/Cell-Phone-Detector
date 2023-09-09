@@ -16,8 +16,6 @@ To run the application, follow these steps:
 
 3. Open `CellPhoneDetector.exe`.
 
-Double-click on the `CellPhoneDetector.exe` executable to start the application.
-
 ## Rebuilding the Application
 
 If you need to rebuild the application, make sure to update the project properties to include the correct paths for your OpenCV's include and library directories.
