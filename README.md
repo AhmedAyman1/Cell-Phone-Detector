@@ -4,7 +4,7 @@ This is a console application that detects cell phones in a webcam stream. The a
 ## Dependencies:
 1- OpenCV
 
-Please make sure you have OpenCV installed and functioning before running this application.
+    Please make sure you have OpenCV installed and functioning before running this application.
 
 ## Running the Application
 
